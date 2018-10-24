@@ -8,4 +8,4 @@ jpa sample
     - identity, table, random
 - finder method
     - use key word (greater than, between, Like, In etc)
-- component mapping
+- component mapping 
